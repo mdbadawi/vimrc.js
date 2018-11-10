@@ -1,0 +1,4 @@
+Plug 'pangloss/vim-javascript'
+Plug 'mxw/vim-jsx'
+Plug 'mattn/emmet-vim'
+Plug 'skywind3000/asyncrun.vim'
